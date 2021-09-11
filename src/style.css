@@ -1,0 +1,24 @@
+App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.description {
+  font-size: 0.9rem;
+}
+
+.button {
+  margin: 0.5rem;
+}
+.recommendation-list {
+  list-style: none;
+  text-align: left;
+  margin-bottom: 1rem;
+  border: 2px solid black;
+  padding: 1.3rem;
+  border-radius: 0.5rem;
+}
+
+.ratings {
+  margin-top: 2px;
+  font-size: 15px;
+}
