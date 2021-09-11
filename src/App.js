@@ -11,7 +11,7 @@ export default function App() {
         rating: "4.16/5",
       },
       {
-        name: "Ghenghis Khan and the Making of Mordern World",
+        name: "Genghis Khan and the Making of Mordern World",
         rating: "3.5/5",
       },
     ],
